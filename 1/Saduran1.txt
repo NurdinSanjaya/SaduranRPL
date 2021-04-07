@@ -1,11 +1,11 @@
-NIM       : 1811500032
-Nama      : Nurdin Sanjaya
-Kelompok  : TI6J
-
-Hasil saya menyimpulkan (menyadur) dari pertemuan pertama:
-1. Penjelasan pertemuan perkuliahan agar diikuti secara berurutan supaya lebih mengerti.
-2. Penjelasan etika berbahasa secara sopan sesuai dengan semboyan ISB ATMA LUHUR yaitu "Cerdas Berjiwa Luhur".
-3. Membuat akun github (berisi tutorial cara menggunakan).
-4. Membuat kesimpulan (saduran) pada setiap pertemuan, kemudian hasil saduran di upload pada akun github.
-5. Penjelasan singkat tujuan dari perkuliahan analisa dan perancangan PL untuk mempersiapkan KP pada semester depan.
-6. Penjelasan materi pertermuan pertama sampai akhir yang akan dipelajari.
+NIM       : 1811500032<br>
+Nama      : Nurdin Sanjaya<br>
+Kelompok  : TI6J<br>
+<br>
+Hasil saya menyimpulkan (menyadur) dari pertemuan pertama:<br>
+1. Penjelasan pertemuan perkuliahan agar diikuti secara berurutan supaya lebih mengerti.<br>
+2. Penjelasan etika berbahasa secara sopan sesuai dengan semboyan ISB ATMA LUHUR yaitu "Cerdas Berjiwa Luhur".<br>
+3. Membuat akun github (berisi tutorial cara menggunakan).<br>
+4. Membuat kesimpulan (saduran) pada setiap pertemuan, kemudian hasil saduran di upload pada akun github.<br>
+5. Penjelasan singkat tujuan dari perkuliahan analisa dan perancangan PL untuk mempersiapkan KP pada semester depan.<br>
+6. Penjelasan materi pertermuan pertama sampai akhir yang akan dipelajari.<br>
